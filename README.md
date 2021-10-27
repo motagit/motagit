@@ -5,7 +5,7 @@
   <br>Hello! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Lucas Mota, Front-end Student 🤓<br>
   <br>
-    <img src="https://i.gifer.com/9TLY.gif" alt="Coder GIF" width="500">
+    <img src="https://i.gifer.com/9TLY.gif" alt="Coder GIF" align="right" width="500">
  </abc>
 </h2> 
 <h2 align="left">🔧 Technologies and Tools I use:</h2>
