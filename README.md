@@ -20,9 +20,9 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🤵 I really like front-end development!
+- 🤵 I really like front-end development :)
 - :computer: Currently working only in small projects
-- :rocket:   Exploring React.js
+- :rocket:   Exploring Angular and Springboot
 - :zap: Fun fact: I like stroganoff 👍<br>
 
 
