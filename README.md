@@ -23,7 +23,7 @@
 
 - 🤵 I really like front-end development :)
 - :computer: Currently working only in small projects
-- :rocket:   Exploring Angular and Springboot
+- :rocket:   Exploring React
 - :zap: Fun fact: I like stroganoff 👍<br>
 
 
