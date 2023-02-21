@@ -3,7 +3,7 @@
 <h2 align="left">
  <abc>
   <br>Hello! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Lucas Mota, Front-end/Back-end Student 🤓<br>
+  <br> I'm Lucas Mota, Fullstack Developer.<br>
   <br>
     <img src="https://media.giphy.com/media/O6Xn0lchW6jL4aO747/giphy.gif" alt="Coder GIF" width="400" align="right">
     
