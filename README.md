@@ -3,10 +3,6 @@
   <br>I'm Lucas Mota, Fullstack Developer.
 </h2>
 
-<p>
-  <img src="https://media.giphy.com/media/O6Xn0lchW6jL4aO747/giphy.gif" alt="Coder GIF" width="400" align="right">
-</p>
-
 ---
 
 ### 🔧 Technologies and Tools I Use:
