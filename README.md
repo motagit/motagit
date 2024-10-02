@@ -3,7 +3,6 @@
   <br>I'm Lucas Mota, Fullstack Developer.
 </h2>
 
----
 
 ### 🔧 Technologies and Tools I Use:
 <p align="left">
@@ -36,7 +35,7 @@
   </a>
 </p>
 
----
+
 
 ### 👨🏻‍💻 About Me:
 
