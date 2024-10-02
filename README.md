@@ -23,8 +23,8 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🤵 Currently working with Java and Angular, but I'm always on the lookout to learn new tools and technologies. I have a strong passion for working with interfaces and design, making sure everything looks and feels just right. Always excited about creating intuitive and beautiful user experiences! :)
-- :computer: Currently working in small projects
+- 🤵 I have a strong passion for working with interfaces and design, making sure everything looks and feels just right. Always excited about creating intuitive and beautiful user experiences! :)
+- :computer: Currently working with Java and Angular, but I'm always on the lookout to learn new tools and technologies.
 - :rocket:   Exploring game development with Unity
 
 
