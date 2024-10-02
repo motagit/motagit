@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  <img src="https://tenor.com/bVwVa.gif" width="100" />
+  <img src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" width="100" />
 </p>
