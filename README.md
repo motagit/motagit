@@ -23,9 +23,8 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🤵 I really like front-end development :)
-- :computer: Currently working only in small projects
-- :rocket:   Exploring React.js and Node
-- :zap: Fun fact: I like stroganoff 👍<br>
+- 🤵 Currently working with Java and Angular, but I'm always on the lookout to learn new tools and technologies. I have a strong passion for working with interfaces and design, making sure everything looks and feels just right. Always excited about creating intuitive and beautiful user experiences! :)
+- :computer: Currently working in small projects
+- :rocket:   Exploring game development with Unity
 
 
